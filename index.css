@@ -1,0 +1,53 @@
+body{
+    background-image: url(homepage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Heading{
+    text-align: center;
+    background-color: rgba(167, 143, 247, 0);
+}
+#tbody{
+    
+    padding: 35px;
+    margin: auto;
+    width: 350px;
+    height: 570px;
+    background-color: rgba(57, 69, 177, 0.474);
+    text-align: center;
+    box-sizing: border-box;
+    
+
+    
+    
+}
+.message{
+    text-align: left;
+}
+.score{
+    text-align: left;
+}
+.Higsc{
+    text-align: left;
+
+}
+table{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.guessNo{
+    background-color:rgba(50, 155, 216, 0.174) ;
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    border-bottom-right-radius: 2px;
+    border-top-left-radius: 2px;
+    font-size: 3rem;
+    align-items: center;
+    
+}
+#secNo{
+    width: 275px;
+    height: 80px;
+}
+
